@@ -3,7 +3,7 @@
     "data": {
         "_provider": {
             "breadcrumbConfig": {
-                "vm" : "AwSearchBreadcrumb",
+                "vm": "AwSearchBreadcrumb",
                 "noUpdate": false,
                 "type": "search"
             },
@@ -24,7 +24,7 @@
                     "secondaryWorkArea": true
                 }
             },
-	        "defaultDisplayMode" : "TableView",
+            "defaultDisplayMode": "TableView",
             "viewBase": "dispatcherRequests"
         }
     }
